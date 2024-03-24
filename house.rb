@@ -45,4 +45,4 @@ puts house.style
 # house.color = "blue"
 puts house.details
 
-puts House.count
+puts House.count 
